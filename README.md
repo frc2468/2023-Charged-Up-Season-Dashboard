@@ -1,1 +1,2 @@
 # 2023-Charged-Up-Season-Dashboard
+Last season, we used the dashboard to track our cascade & wrist setpoints, field-centric/robot-centric mode, and an autonomous selector with detailed path visualizations. During TeleOp, the Dashboard relayed a camera feed from the Limelight through which drivers could see game objects from the robot’s perspective across the field. Additionally, we had a list of SparkMAX errors on one of the dashboard’s panes for debugging purposes.
